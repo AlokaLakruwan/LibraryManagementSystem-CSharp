@@ -1,6 +1,6 @@
 # LibraryManagementSystem-CSharp
 
-Library Managemnt System Desktop app creted using C# & MS SQL Server.
+Library Managemnt System Desktop app creted using C#, Crystal Report & MSSQL Server.
 
 I created This Desktop app to learn C# and Convert Library management system I created previously using Java & Mysql.
 
